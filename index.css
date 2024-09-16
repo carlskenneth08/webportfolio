@@ -1,0 +1,113 @@
+html {
+    background: rgb(12, 12, 12);
+}
+
+
+/* Navbar */
+
+#navbar img {
+    width: 40px;
+    border-radius: 25%;
+}
+
+#navbar {
+    background: blue;
+    background: linear-gradient(#033747, #012733);
+    border: none;
+}
+
+.nav-link {
+    font-family: merriweather, sans-serif;
+}
+
+#landing-text {
+    background: url(https://cdn.wallpapersafari.com/96/2/h8BUqx.png);
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    font-family: merriweather, sans-serif;
+}
+
+#landing h1 {
+    font-size: 80px;
+    color: #cfedf5;
+}
+
+#landing h4 {
+    font-size: 40px;
+    color: #cfedf5;
+}
+
+#landing p {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#landing-image {
+    width: 400px;
+}
+
+#projects-header h2 {
+    color: #07556d;
+    font-family: merriweather, sans-serif;
+    font-size: 40px;
+}
+
+.card {
+   border-radius: 20px;
+}
+
+.card-title, .card-body {
+    text-align: center;
+}
+
+#tools {
+    background-color: #0e737c;
+}
+
+#tools-header h2 {
+    color: #ffffff;
+    font-family: merriweather, sans-serif;
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+
+#tools h3 {
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+
+#contact-header h2 {
+    color: #095870;
+    font-family: merriweather, sans-serif;
+    font-size: 40px;
+}
+
+#form-header {
+    color: #07556d;
+    text-align: center;
+}
+
+#form label {
+    color: #07556d;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+#button {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    background: #07556d
+}
+
+footer {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.5px;
+    text-align: center;
+    color: #fff2e4;
+    background: #012733;
+  }
