@@ -55,10 +55,7 @@ html {
 
 .card {
    border-radius: 20px;
-}
-
-.card img {
-    width: 18rem;
+   width: 18rem;
 }
 
 .card-title, .card-body {
