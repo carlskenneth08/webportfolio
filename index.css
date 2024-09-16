@@ -94,6 +94,15 @@ html {
     font-size: 20px;
 }
 
+#contact form input {
+	background: #f0fbfd;
+	border: 1px solid #07556d;
+}
+
+#contact form textarea {
+    background: #f0fbfd;
+	border: 1px solid #07556d;
+}
 
 #button {
     font-size: 20px;
